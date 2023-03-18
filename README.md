@@ -7,16 +7,20 @@ I'm a Front-End Web Deveolper.
 Welcome to my github.
 
 
-😄I consider myself hard-working, responsible, fast learner and I like to learn in a self-taught way. 
+😄I consider myself a hard-working, responsible and fast learner persos, also I really enjoy learning in a self-taught way. 
+<br />
 🌱 I’m currently finishing the bootcamp "SoyHENRY" with more than 800 hours of practice in web programming. 
-
+<br />
 In addition, my previous jobs gave me experience in working in teams, customer service, management of computer tools and social networks. 
 
+<br />
 
+ 
+**📫 How to reach me:**
 
-📫 How to reach me: 
--email:
--linkedIn: 
+-  **email**: email@email
+-  **linkedIn**: /linkedinlink
+
 
 <!--
 **nikkiburgos/nikkiburgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
