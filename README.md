@@ -1,38 +1,19 @@
-### Hi there 👋
+### Hi there GitHub community! 👋🏻
+
+I'm Nikki, a passionate Full Stack Web Developer with a focus on Front End and UX/UI design. 
+I have experience in teamwork, customer service, computer tools, and social media.
+
+😄I consider myself hardworking, responsible, and self-taught, always looking to learn more and improve my skills. I'm also a precise and organized person, which allows me to achieve my goals effectively and efficiently. I value collaboration and assertive communication, I am practical, perceptive, and highly responsible, which helps me work well both in teams and on individual projects.
+
+🌱 Currently, I'm finishing the "SoyHENRY" boot camp, which has given me more than 800 hours of practice in web programming. I've been learning technologies such as:
+JavaScript | HTML | CSS | React | Redux | Node | Express | SQL | PostgreSQL | Sequelize | Git | Scrum | Figma | Photoshop 
+
+⚡ Fun fact: I also studied Law at the National University of Cuyo, which provided me with valuable skills such as dedication, perseverance, assertive and effective communication, and the ability to learn constantly; skills that are essential in the world of web programming.
+
+I must mention that in my downtime, I enjoy practicing yoga 🧘🏻‍♀️ and spending time with my cat🐈, who is my faithful companion during my long programming sessions.
 
 
-I'm Nikki Burgos Vega. 
-I'm a Front-End Web Deveolper.
+✨Please don't hesitate to contact me for any job or project opportunities!✨
 
-Welcome to my github.
-
-
-😄I consider myself a hard-working, responsible and fast learner persos, also I really enjoy learning in a self-taught way. 
-<br />
-🌱 I’m currently finishing the bootcamp "SoyHENRY" with more than 800 hours of practice in web programming. 
-<br />
-In addition, my previous jobs gave me experience in working in teams, customer service, management of computer tools and social networks. 
-
-<br />
-
- 
-**📫 How to reach me:**
-
--  **email**: email@email
--  **linkedIn**: /linkedinlink
-
-
-<!--
-**nikkiburgos/nikkiburgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧Email: burgosveganicole@gmail.com
+💻LinkedIn: https://www.linkedin.com/in/nikkiburgos/
