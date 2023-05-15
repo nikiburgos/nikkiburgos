@@ -9,7 +9,7 @@ I have experience in teamwork, customer service, computer tools, and social medi
 🌱 Currently, I just finished the "SoyHENRY" bootcamp, which has given me more than 800 hours of practice in web programming. I've been learning technologies such as:
 JavaScript | HTML | CSS | React | Redux | Node | Express | SQL | PostgreSQL | Sequelize | Git | Scrum | Figma | Photoshop 
 
-⚡ Fun fact: I also studied Law at the National University of Cuyo, which provided me with valuable skills such as dedication, perseverance, assertive and effective communication, and the ability to learn constantly; skills that are essential in the world of web programming.
+⚡ Fun fact: I also studied Law at the Universidad Nacional de Cuyo, which provided me with valuable skills such as dedication, perseverance, assertive and effective communication, and the ability to learn constantly; skills that are essential in the world of web programming.
 
 I must mention that in my downtime, I enjoy practicing *yoga* 🧘🏻‍♀️ and *spending time with my cat*🐈, who is my faithful companion during my long programming sessions.
 
