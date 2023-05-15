@@ -1,4 +1,4 @@
-📌EN | 
+📌EN |   
 ### Hi there GitHub community! 👋🏻
 
 I'm Nikki, a passionate  **Full Stack Web Developer** with a focus on *Front End and UX/UI design*. 
@@ -22,7 +22,7 @@ I must mention that in my downtime, I enjoy practicing *yoga* 🧘🏻‍♀️ 
 
 ---
 
-📌ES | 
+📌ES |  
 ###¡Hola comunidad de GitHub! 👋🏻
 
 Soy Nikki, una apasionada **desarrolladora web Full Stack** con enfoque en *Front End y diseño UX/UI*. 
