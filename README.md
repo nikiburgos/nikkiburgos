@@ -16,9 +16,9 @@ I must mention that in my downtime, I enjoy practicing *yoga* 🧘🏻‍♀️ 
 
 ✨Please don't hesitate to contact me for any job or project opportunities!✨
 
-📧 Email: burgosveganicole@gmail.com
-💻 LinkedIn: [in/nikkiburgos](https://www.linkedin.com/in/nikkiburgos/)
-💼 Portfolio: [nikkiburgos.vercel.app](nikkiburgos.vercel.app/)
+📧 Email: burgosveganicole@gmail.com  
+💻 LinkedIn: [in/nikkiburgos](https://www.linkedin.com/in/nikkiburgos/)  
+💼 Portfolio: [nikkiburgos.vercel.app](nikkiburgos.vercel.app/)  
 
 ---
 
@@ -41,6 +41,6 @@ Debo mencionar que en mi tiempo libre, disfruto practicar yoga 🧘🏻‍♀️
 
 ✨ ¡No dudes en contactarme para cualquier oportunidad laboral o de proyectos! ✨
 
-📧 Email: burgosveganicole@gmail.com
-💻 LinkedIn: [in/nikkiburgos](https://www.linkedin.com/in/nikkiburgos/)
-💼 Portfolio: [nikkiburgos.vercel.app](nikkiburgos.vercel.app/)
+📧 Email: burgosveganicole@gmail.com  
+💻 LinkedIn: [in/nikkiburgos](https://www.linkedin.com/in/nikkiburgos/)  
+💼 Portfolio: [nikkiburgos.vercel.app](nikkiburgos.vercel.app/)  
