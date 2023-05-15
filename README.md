@@ -23,6 +23,7 @@ I must mention that in my downtime, I enjoy practicing *yoga* 🧘🏻‍♀️ 
 ---
 
 📌ES |  
+
 ###¡Hola comunidad de GitHub! 👋🏻
 
 Soy Nikki, una apasionada **desarrolladora web Full Stack** con enfoque en *Front End y diseño UX/UI*. 
