@@ -7,7 +7,7 @@ I have experience in teamwork, customer service, computer tools, and social medi
 😄I consider myself **hardworking, responsible, and self-taught**, always looking to learn more and improve my skills. I'm also a precise and organized person, which allows me to achieve my goals effectively and efficiently. I **value collaboration and assertive communication**, I am practical, perceptive, and highly responsible, which helps me work well both in teams and on individual projects.
 
 📧 Email: burgosveganicole@gmail.com  
-💻 LinkedIn: [in/nikkiburgos](https://www.linkedin.com/in/nikiburgos/)  
+💻 LinkedIn: [in/nikiburgos](https://www.linkedin.com/in/nikiburgos/)  
 
 ---
 
@@ -22,5 +22,5 @@ Tengo experiencia en trabajo en equipo, servicio al cliente, herramientas inform
 También soy una persona precisa y organizada, lo que me permite alcanzar mis metas de manera efectiva y eficiente. **Valoro la colaboración y la comunicación asertiva**, soy práctica, perceptiva y altamente responsable, lo que me ayuda a trabajar bien tanto en equipos como en proyectos individuales.
 
 📧 Email: burgosveganicole@gmail.com  
-💻 LinkedIn: [in/nikkiburgos](https://www.linkedin.com/in/nikiburgos/)  
+💻 LinkedIn: [in/nikiburgos](https://www.linkedin.com/in/nikiburgos/)  
 
